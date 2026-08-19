@@ -18,19 +18,19 @@
         <img src="https://i.imgur.com/GzG7q5k.png" width="220" alt="Mayur Avatar" />
       </td>
       
-      <!-- DYNAMIC AI INTRO -->
-      <td width="65%" align="left">
-        <a href="https://git.io/typing-svg">
-          <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=38&pause=1000&color=00F3FF&lines=I+AM+MAYUR.;SYSTEMS+ARCHITECT.;AGENTIC+AI+ENGINEER.;GROWTH+STRATEGIST." alt="Typing SVG" />
-        </a>
-        <br><br>
-        <code>[ ⚡ STATUS: ONLINE_ ]</code>
-        <br><br>
-        <p style="color: #999;">
-          <b>MISSION DIRECTIVE:</b> Operating at the intersection of engineering precision and high-leverage growth. I design proprietary agentic systems (Project M.A.R.K.), scalable digital architectures, and conversion-engineered commercial cinematography.
-        </p>
-      </td>
-    </tr>
+     <!-- DYNAMIC AI INTRO -->
+  <td width="70%" align="left" valign="middle">
+    <a href="https://git.io/typing-svg">
+      <img src="https://readme-typing-svg.demolab.com?font=Orbitron&amp;weight=900&amp;size=35&amp;pause=1000&amp;color=00F3FF&amp;width=800&amp;lines=I+AM+MAYUR.;The+Man,+Mindset,+Monopoly.....;AGENTIC+AI+ENGINEER.;GROWTH+STRATEGIST." alt="Typing SVG" />
+    </a>
+    <br><br>
+    <code>[ ⚡ STATUS: ONLINE_ ] | ID: MAYUR | ORG: AM SOLUTIONS</code>
+    <br><br>
+    <p>
+      <b>MISSION DIRECTIVE:</b> Operating at the intersection of engineering precision and high-leverage growth. I design proprietary agentic systems (Project M.A.R.K.), scalable digital architectures, and conversion-engineered commercial cinematography globally.
+    </p>
+  </td>
+</tr>
   </table>
 </div>
 
